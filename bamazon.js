@@ -7,7 +7,7 @@ var Table = require("cli-table2");
 var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "",
+    password: "32013989MC",
     database: "bamazon_db",
     port: 3306,
 
@@ -19,7 +19,7 @@ var connection = mysql.createConnection({
     connection.query("SELECT * FROM products", function(err, res){
       if (err) throw err;
       console.log("------------")
-      console.log("Bamazon, by Carlo V")
+      console.log("Bamazon by Carlo V")
       console.log("------------")
       console.log("")
       console.log("Find something here: ")
