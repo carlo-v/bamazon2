@@ -1,0 +1,2 @@
+INSERT INTO products VALUES(1,'WarlockGuitar' ,1, 69.95, 25),(2, 'MarshallsAmplifiers' ,1, 39.95, 15),(3, 'PearlDrumset' ,1, 149.95, 6),(4, 'TamaSnareDrum' ,2, 70.50, 12),(5, 'ZildjianCymbals' ,2, 70.0, 12),
+(6, 'GuitarPicks' ,8, 70.50, 12),(7, 'MarshallsChords' ,6, 18.50, 12),(8, 'GuitarStrings' ,9, 25.50, 13),(9, 'DoublBassPedal' ,6, 70.99, 12);
